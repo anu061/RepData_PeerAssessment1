@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, fig.path='Figs/')
 ```
 
 This is an R Markdown document containing the responses and code corresponding to the 8 questions that are a part of the Reproducible Research course project 1. [link](https://www.coursera.org/learn/reproducible-research/peer/gYyPt/course-project-1)
